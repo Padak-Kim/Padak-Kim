@@ -21,15 +21,12 @@
   <img src="https://img.shields.io/badge/MS-SQL-%23A91D22?style=flat" />&nbsp
 </div>
 
-<hr>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/ASP.Net%20Core-%09%23EAE0FF?style=flat&logo=.Net&logoColor=%23512BD4" />&nbsp
   <img src="https://img.shields.io/badge/EF%20Core-%09%23EAE0FF?style=flat&logo=.Net&logoColor=%23512BD4" />&nbsp
 </div>
-
-<hr>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -42,8 +39,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-%2368217A?style=flat" />&nbsp
   <img src="https://img.shields.io/badge/Fork-%230151A0?style=flat" />&nbsp
 </div>
-
-<hr>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
