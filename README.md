@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/C%23-20232a?style=flat&logo=C&logoColor=white&label=Sharp&labelColor=%23512BD4" />&nbsp
 </div>
 
+<hr class="divider">
+
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-%230E1128?style=flat&logo=UnrealEngine&logoColor=%23FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/Unity-20232a?style=flat&logo=Unity&logoColor=%23FFFFFF" />&nbsp
