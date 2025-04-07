@@ -7,7 +7,7 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-%09%234B4B4B?style=flat&logo=c%2B%2B&logoColor=%2300599C" />&nbsp
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=c&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C%23-20232a?style=flat&logo=C&logoColor=white&label=Sharp&labelColor=%23512BD4" />&nbsp
 </div>
 
 <div align="center">
