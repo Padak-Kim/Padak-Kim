@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/EF%20Core-%09%23EAE0FF?style=flat&logo=.Net&logoColor=%23512BD4" />&nbsp
 </div>
 
+<hr>
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp
