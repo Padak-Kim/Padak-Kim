@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/C%23-20232a?style=flat&logo=C&logoColor=white&label=Sharp&labelColor=%23512BD4" />&nbsp
 </div>
 
-<hr class="divider">
-
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-%230E1128?style=flat&logo=UnrealEngine&logoColor=%23FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/Unity-20232a?style=flat&logo=Unity&logoColor=%23FFFFFF" />&nbsp
@@ -22,6 +20,8 @@
   <img src="https://img.shields.io/badge/MySQL-%23F5F5F5?style=flat&logo=MySQL&logoColor=%2300758F" />&nbsp
   <img src="https://img.shields.io/badge/MS-SQL-%23A91D22?style=flat" />&nbsp
 </div>
+
+<hr>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-%2368217A?style=flat" />&nbsp
   <img src="https://img.shields.io/badge/Fork-%230151A0?style=flat" />&nbsp
 </div>
+
+<hr>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
