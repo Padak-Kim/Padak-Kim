@@ -50,3 +50,5 @@
       src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![Padak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padak-Kim&show_icons=true&theme=radical)
