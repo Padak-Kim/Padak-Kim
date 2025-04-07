@@ -8,6 +8,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/c%2B%2B-%09%234B4B4B?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C" />&nbsp
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp" />&nbsp
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/unity-20232a?style=for-the-badge&logo=Unity&logoColor=%23FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-%230E1128?style=for-the-badge&logo=UnrealEngine&logoColor=%23FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/DirectX11-%23107C10?style=for-the-badge" />&nbsp
@@ -34,19 +37,19 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio-%2368217A?style=flat" />&nbsp
+  <img src="https://img.shields.io/badge/Fork-%230151A0?style=flat" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  <a href="https://www.instagram.com/hwidung_2">
+    <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:diseor1701@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
