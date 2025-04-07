@@ -51,4 +51,7 @@
   </a>
 </div>
 
+<br>
+
+<hr>
 ![Padak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padak-Kim&show_icons=true&theme=radical)
