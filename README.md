@@ -6,14 +6,14 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/c%2B%2B-%09%234B4B4B?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C" />&nbsp
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp" />&nbsp
+  <img src="https://img.shields.io/badge/c%2B%2B-%09%234B4B4B?style=flat&logo=c%2B%2B&logoColor=%2300599C" />&nbsp
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/unity-20232a?style=for-the-badge&logo=Unity&logoColor=%23FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/Unreal%20Engine%205-%230E1128?style=for-the-badge&logo=UnrealEngine&logoColor=%23FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/DirectX11-%23107C10?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/unity-20232a?style=flat&logo=Unity&logoColor=%23FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/Unreal%20Engine%205-%230E1128?style=flat&logo=UnrealEngine&logoColor=%23FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/DirectX11-%23107C10?style=flat" />&nbsp
 </div>
 
 <div align="center">
@@ -46,7 +46,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://www.instagram.com/hwidung_2">
-    <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/instagram-FF0069?style=flat&logo=instagram&logoColor=white" />&nbsp
   </a>
   <a href="mailto:diseor1701@gmail.com">
     <img
